@@ -1,0 +1,70 @@
+{
+  "ver": "1.0.27",
+  "importer": "image",
+  "imported": true,
+  "uuid": "95e8f80f-c673-41f0-a95f-b2086073abaa",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "fx_coinxiaosh_01": {
+      "ver": "1.0.3",
+      "uuid": "520729dd-f230-4380-a337-824937834d45",
+      "rawTextureUuid": "95e8f80f-c673-41f0-a95f-b2086073abaa",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1.5,
+      "offsetY": 0,
+      "trimX": 7,
+      "trimY": 3,
+      "width": 69,
+      "height": 74,
+      "rawWidth": 80,
+      "rawHeight": 80,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "95e8f80f-c673-41f0-a95f-b2086073abaa@6c48a",
+      "displayName": "fx_coinxiaosh_01",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "95e8f80f-c673-41f0-a95f-b2086073abaa",
+        "visible": false
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "hasAlpha": true,
+    "type": "texture",
+    "fixAlphaTransparencyArtifacts": false,
+    "redirect": "95e8f80f-c673-41f0-a95f-b2086073abaa@6c48a"
+  }
+}
